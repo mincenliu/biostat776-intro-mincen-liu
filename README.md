@@ -1,2 +1,2 @@
-# biostat776-intro-mincen-liu
+# Introducing myself
 This website contains a short introduction of Mincen Liu.

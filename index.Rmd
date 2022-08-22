@@ -1,0 +1,29 @@
+---
+title: "biostat776-intro-mincen-liu"
+output: html_document
+---
+<div align="justify">This is the repository for Mincen Liu in Biostat 776.</div>
+
+<section>
+<h2>About me</h2>
+<div align="justify">I am an ScM student in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. Previously, I received my BSPH degree in Biostatistics and Mathematics with a minor in Computer Science from the University of North Carolina at Chapel Hill. I worked as an intern at the UNC Center for AIDS Research (CFAR) Biostatistics Core.</div>
+<br />
+<div align="justify">I had training in probability and statistical inference, methods of statistical analysis, sample survey methodology, object-oriented programming, data structures, web programming, and algorithms. I mostly use SAS for data analysis due to my undergraduate training and the nature of my previous projects. In terms of other technical skills, I am also proficient in JavaScript, HTML, and CSS, and have some experience with Java, Python, MATLAB, SUDAAN, C, REDCap, Epi Info, and MIPS Assembly, as well as R. I hope that this course will provide me with a systematic and practical training in R.</div>
+</section>
+
+<section>
+<h2>Five fun facts about me</h2>
+<ol>
+  <li>I am originally from China.</li>
+  <li>I love mint chocolate chip ice cream.</li>
+  <li>I have never driven on the highway.</li>
+  <li>I am terrible at remembering birthdays.</li>
+  <li>The hobby that I could never give up is collecting sneakers.</li>
+</ol> 
+</section>
+
+<section>
+<h2>Interesting website about Chinese food</h2>
+<div align="justify">This website contains the detailed recipes of some great Chinese food.</div>
+<a href="https://www.chinasichuanfood.com/">https://www.chinasichuanfood.com/</a>
+</section>
